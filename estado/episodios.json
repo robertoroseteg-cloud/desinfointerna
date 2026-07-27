@@ -1,5 +1,14 @@
 [
   {
+    "id": "69bbb3f8eb47e22a",
+    "titulo": "Detenido, el último exmilitar que torturó y asesinó a Víctor Jara",
+    "fuente": "internacional – Desinformémonos",
+    "enlace": "https://desinformemonos.org/detenido-el-ultimo-exmilitar-que-torturo-y-asesino-a-victor-jara/",
+    "archivo": "69bbb3f8eb47e22a.mp3",
+    "bytes": 510192,
+    "timestamp": 1785176018
+  },
+  {
     "id": "28fe129d98c29cf1",
     "titulo": "El agronegocio lo hizo: epidemia de abortos espontáneos y hipotiroidismo en ciudades con uso de agrotóxicos",
     "fuente": "internacional – Desinformémonos",
@@ -169,14 +178,5 @@
     "archivo": "dfe4ebb490da88af.mp3",
     "bytes": 3029616,
     "timestamp": 1784445461
-  },
-  {
-    "id": "ddea8d842ee58889",
-    "titulo": "La fiebre de la IA y los centros de datos abre un nuevo frente por el agua en Chile",
-    "fuente": "internacional – Desinformémonos",
-    "enlace": "https://desinformemonos.org/la-fiebre-de-la-ia-y-los-centros-de-datos-abre-un-nuevo-frente-por-el-agua-en-chile/",
-    "archivo": "ddea8d842ee58889.mp3",
-    "bytes": 4862592,
-    "timestamp": 1784445433
   }
 ]
